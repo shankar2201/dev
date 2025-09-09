@@ -7,3 +7,5 @@ then
 else
    echo "value is double digit"
 fi
+
+echo "hello Linux"
